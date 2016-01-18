@@ -1,0 +1,28 @@
+name: Michael J Kolesar Designer
+favicon: null
+layout_spectrum: 0.699119962984696
+typography_spectrum: 0.9162769610993564
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.28844449669122696
+  lightness: 0.8627688260748982
+  saturation: 0.3386901658959687
+  rhythmicContrast: 0.014789206674322486
+purpose: []
